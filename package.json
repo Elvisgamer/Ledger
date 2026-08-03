@@ -1,0 +1,15 @@
+{
+  "name": "spending-tracker",
+  "version": "1.0.0",
+  "description": "Family & personal spending tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
